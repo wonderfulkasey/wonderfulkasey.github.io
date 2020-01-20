@@ -1,11 +1,11 @@
 # Site settings
 author: Kasey Arnold
-title: 
+title: wonderfulkasey
 header-img: img/home-bg.png
 email: kaseyarnold15@gmail.com
 copyright_name: Kasey Arnold
 description: > # this means to ignore newlines until "baseurl:"
-  
+  jammin' and programmin'
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wonderfulkasey
