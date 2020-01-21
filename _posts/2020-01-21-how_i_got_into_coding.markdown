@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How I Got Into Coding"
-date:       2020-01-21 20:48:05 +0000
+date:       2020-01-21 15:48:05 -0500
 permalink:  how_i_got_into_coding
 ---
 
